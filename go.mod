@@ -16,7 +16,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/djherbis/times v1.0.1 // indirect
 	github.com/docker/distribution v2.6.2+incompatible // indirect
-	github.com/emicklei/go-restful v2.8.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/emicklei/go-restful-swagger12 v0.0.0-20170208215640-dcef7f557305 // indirect
 	github.com/emirpasic/gods v1.9.0 // indirect
 	github.com/evanphx/json-patch v4.1.0+incompatible // indirect
